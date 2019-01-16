@@ -7,12 +7,11 @@ Github repository init kit, comprises of awesome docs and configs needed to setu
 
 List of docs useful for setting up a github repository
 
-- [Contribution Guide](docs/contribution/contribution.md)
+- [Contribution Guide](docs/contribution)
 - [Readme](docs/readme.md)
 
 ## Configs
 
 List of configs useful for setting up and running projects
 
-- [Debugger Configs](configs/debugger/debugger.md)
-- [ESLint Configs](configs/linter/linter.md)
+- [ESLint Configs](configs/linter)
