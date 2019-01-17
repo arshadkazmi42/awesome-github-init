@@ -1,4 +1,4 @@
-## NodeJs Linteres
+## NodeJs Linter Configs
 
 Collection of linter configs for NodeJs
 
