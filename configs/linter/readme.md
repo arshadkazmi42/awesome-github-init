@@ -1,3 +1,5 @@
 ## Linter Configs
 
-- [NodeJs Linters](nodejs)
+Collection of linter configs for different frameworks/languages
+
+- [NodeJs](nodejs)
