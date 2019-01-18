@@ -17,3 +17,9 @@ List of configs useful for setting up and running projects
 - [ESLint Configs](configs/linter)
 - [Travis CI](configs/travis)
 - [GitIgnore](configs/gitignore)
+
+## General
+
+List of general configs for framework/langauges
+
+- [NodeJs](general/nodejs)
