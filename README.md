@@ -1,4 +1,4 @@
-# awesome-github-init
+# awesome-github-init :metal:
 
 Github repository init kit, comprises of awesome docs and configs needed to setup a new gitub repository
 
