@@ -25,4 +25,4 @@ List of general configs for framework/langauges
 
 - [Badges](general/badges.md)
 - [NodeJs](general/nodejs)
-- [Python](generate/python)
+- [Python](general/python)
