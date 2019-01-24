@@ -23,5 +23,6 @@ List of configs useful for setting up and running projects
 
 List of general configs for framework/langauges
 
-- [NodeJs](general/nodejs)
 - [Badges](general/badges.md)
+- [NodeJs](general/nodejs)
+- [Python](general/python)
