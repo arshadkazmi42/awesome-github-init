@@ -1,7 +1,11 @@
 # awesome-github-init :metal:
 
-Github repository init kit, comprises of awesome docs and configs needed to setup a new gitub repository
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init)
+ [![LICENSE](https://img.shields.io/github/license/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/commits/master)
 
+Github repository init kit, comprises of awesome docs and configs needed to setup a new gitub repository
 
 ## Docs
 
