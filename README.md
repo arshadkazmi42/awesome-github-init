@@ -1,7 +1,11 @@
 # awesome-github-init :metal:
 
-Github repository init kit, comprises of awesome docs and configs needed to setup a new gitub repository
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init)
+ [![LICENSE](https://img.shields.io/github/license/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/awesome-github-init.svg)](https://github.com/arshadkazmi42/awesome-github-init/commits/master)
 
+Github repository init kit, comprises of awesome docs and configs needed to setup a new gitub repository
 
 ## Docs
 
@@ -15,9 +19,9 @@ List of docs useful for setting up a github repository
 
 List of configs useful for setting up and running projects
 
-- [ESLint Configs](configs/linter)
-- [Travis CI](configs/travis)
-- [GitIgnore](configs/gitignore)
+- [.eslintrc.json](configs/linter)
+- [.travis.yml](configs/travis)
+- [.gitignore](configs/gitignore)
 
 ## General
 
