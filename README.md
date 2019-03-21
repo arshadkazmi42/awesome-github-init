@@ -35,4 +35,4 @@ List of general configs for framework/langauges
 
 Thank you to all the contributors who help in making this project better :raised_hands:
 
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/MIKOLAJW197"><img src="https://github.com/MIKOLAJW197.png" width="30" /></a>
+<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/marieram"><img src="https://github.com/marieram.png" width="30" /></a><a href="https://github.com/MIKOLAJW197"><img src="https://github.com/MIKOLAJW197.png" width="30" /></a>
