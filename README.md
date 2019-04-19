@@ -7,6 +7,14 @@
 
 Github repository init kit, comprises of awesome docs and configs needed to setup a new gitub repository
 
+## Github Templates
+
+List of github templates for setting up a github respository
+
+- [Pull Request Template](https://github.com/arshadkazmi42/ak-url-validate/blob/master/PULL_REQUEST_TEMPLATE.md)
+- [Bug Request Template](https://github.com/arshadkazmi42/ak-logger/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) 
+- [Feature Request Template](https://github.com/arshadkazmi42/ak-logger/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)
+
 ## Docs
 
 List of docs useful for setting up a github repository
