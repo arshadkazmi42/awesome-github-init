@@ -39,6 +39,19 @@ List of general configs for framework/langauges
 - [NodeJs](general/nodejs)
 - [Python](general/python)
 
+## CLI Tools
+
+List of cli tools which can help you with github tasks.
+
+- [flip-remote](https://github.com/arshadkazmi42/flip-remote)
+  - Switches your git config remote, from https to ssh
+- [gitifyme](https://github.com/arshadkazmi42/gitifyme)
+  - Configures your name and email in the currenct repository git config
+- [rhof-cli](https://github.com/arshadkazmi42/rhof-cli)
+  - Generates contributors hall of fame of respository to add in README.md
+- [upstreamit](https://github.com/gh-conf/upstreamit)
+  - Add upstream configuration for forked repository.
+
 ## Contributors
 
 Thank you to all the contributors who help in making this project better :raised_hands:
